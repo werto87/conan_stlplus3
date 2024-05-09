@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/home/walde/workspace/conan/conan_stlplus3/all/test_package/build/gcc-13-x86_64-gnu20-release/generators/CMakePresets.json"
+    ]
+}

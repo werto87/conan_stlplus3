@@ -1,4 +1,4 @@
 sources:
-  0.0.1:
-    url:
-    sha256:
+  "3.16.0":
+    url: "https://github.com/werto87/stlplus3/archive/refs/tags/v3.16.0.tar.gz"
+    sha256: "4e21dc10266d67831f7f2cf15561444bc264b4cbb4bb20d9a6689dcde8f0f9ef"
