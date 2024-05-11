@@ -1,3 +1,5 @@
+// copied from one of the tests
+
 #include "stlplus/persistence/persistent_map.hpp"
 #include "stlplus/persistence/persistent_ntree.hpp"
 #include "stlplus/persistence/persistent_shortcuts.hpp"
